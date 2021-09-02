@@ -51,7 +51,7 @@
 <!-- YOUTUBE:END -->
 
 ---
-![Raime's GitHub stats](https://github-readme-stats.vercel.app/api?gu-raime=anuraghazra&count_private=true)
+![Raime's GitHub stats](https://github-readme-stats.vercel.app/api?username=gu-raime&count_private=true)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com

@@ -14,6 +14,7 @@
 
 ### Connect with me:
 
+
 [<img align="left" alt="Gustavo Raime | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Gustavo Raime | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Gustavo Raime | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,6 +32,9 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<img align="left" alt="Visual Studio Code" width="32px" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" /> 
+
+<img align="left" alt="Visual Studio Code" width="106px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" />
 <br />
 <br />
 

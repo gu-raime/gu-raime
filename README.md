@@ -51,7 +51,7 @@
 <!-- YOUTUBE:END -->
 
 ---
-
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gu-raime&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com

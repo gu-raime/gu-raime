@@ -43,6 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Desafio 3D - Clínica Integrada: Regularização das malhas e Recorte dos Modelos Digitais](https://www.youtube.com/watch?v=AaOSy_N6I6U)
+- [Anatomia Craniana: Músculos da Mímica, da Mastigação e Vascularização Superficial e Profunda da Face](https://www.youtube.com/watch?v=aIsEIvJ37ig)
+- [Anatomia Craniana: Pontos Craniométricos, Estimativa de Idade e Diferenciação Sexual - LAOF - FOUSP](https://www.youtube.com/watch?v=MYu9dnMooxM)
+- [Apresentação XXV Reunião de Pesquisa XXII Seminário de Iniciação Científica - FOUSP](https://www.youtube.com/watch?v=mTkLtrePmRs)
+- [Modelando os Casos e Mortes por COVID-19 do Estado de SP - Previsões por Regressão Linear Univariada](https://www.youtube.com/watch?v=YFafeZDlikE)
 <!-- YOUTUBE:END -->
 
 ---
